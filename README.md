@@ -2,46 +2,61 @@
 
 <p align="left">
   <a href="https://github.com/shawnbryant">
-    <img src="https://img.shields.io/badge/Status-Transitioning%20to%20Software-success?style=flat-square&color=2ea44f" alt="Status" />
+    <img src="https://img.shields.io/badge/Status-Transitioning%20to%20Software-4f46e5?style=flat-square&logo=git&logoColor=white" alt="Status" />
   </a>
   <a href="https://linkedin.com">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat-square&logo=linkedin" alt="LinkedIn" />
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0077b5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
 </p>
 
-Mechanical Engineer transitioning to full-stack software development. I bring analytical, systems-level problem solving from the physical world into building robust, clean code and digital applications.
+Mechanical Engineer transitioning into software engineering, specializing in **Python** scripting, automation, and physical-digital systems. I leverage my background in complex CAD modeling and simulation to write clean, structured code that bridges the physical and virtual worlds.
 
 ---
 
-### 🛠️ Tech Stack & Tools
+### 🛠️ Core Skills & Expertise
 
-#### **Software Engineering**
-<p align="left">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" />
-</p>
-
-#### **Engineering & Systems**
-<p align="left">
-  <img src="https://img.shields.io/badge/MATLAB-ED1C24?style=for-the-badge&logo=mathworks&logoColor=white" alt="MATLAB" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
-  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
-</p>
+<table width="100%">
+  <tr>
+    <td width="33%" valign="top">
+      <h4><b>💻 Software & Scripting</b></h4>
+      <ul>
+        <li>Python <i>(Automation, Scripting)</i></li>
+        <li>Git / GitHub version control</li>
+        <li>Algorithmic problem-solving</li>
+      </ul>
+    </td>
+    <td width="33%" valign="top">
+      <h4><b>📐 CAD & Design</b></h4>
+      <ul>
+        <li>SolidWorks</li>
+        <li>AutoCAD</li>
+        <li>GD&T <i>(Geometric Dimensioning)</i></li>
+      </ul>
+    </td>
+    <td width="33%" valign="top">
+      <h4><b>📊 Analysis & Simulation</b></h4>
+      <ul>
+        <li>MATLAB & Simulink</li>
+        <li>Finite Element Analysis (FEA)</li>
+        <li>Thermal & Fluid Dynamics</li>
+      </ul>
+    </td>
+  </tr>
+</table>
 
 ---
 
-### 📊 GitHub Stats
+### 📊 GitHub Activity & Stats
+
+> [!NOTE]
+> *The cards below will load your live GitHub data once you run `setup_profile.sh` to link your username and push your first commit!*
 
 <p align="center">
   <a href="https://github.com/shawnbryant">
-    <img align="left" src="https://github-readme-stats.vercel.app/api?username=shawnbryant&show_icons=true&theme=tokyonight&border_radius=10&count_private=true" alt="Shawn's GitHub stats" height="195px" />
+    <img align="left" src="https://github-readme-stats.vercel.app/api?username=shawnbryant&show_icons=true&theme=tokyonight&border_radius=10&count_private=true" alt="GitHub stats" height="195px" />
   </a>
   <a href="https://github.com/shawnbryant">
-    <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shawnbryant&layout=compact&theme=tokyonight&border_radius=10" alt="Top Langs" height="195px" />
+    <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shawnbryant&layout=compact&theme=tokyonight&border_radius=10&langs_count=6" alt="Top Langs" height="195px" />
   </a>
 </p>
 
@@ -51,13 +66,13 @@ Mechanical Engineer transitioning to full-stack software development. I bring an
 
 ### 🚀 What I'm Up To
 
-* 🛠️ **Currently working on**: Building responsive web applications and data processing pipelines.
-* 📖 **Learning**: Advanced software architecture, algorithms, and system design.
-* 💬 **Ask me about**: Mechanical system modeling, Python automation, and web design.
-* ✉️ **How to reach me**: [Email Me](mailto:shawn.bryant.developer@gmail.com) or connect on [LinkedIn](https://linkedin.com).
+* 🛠️ **Currently working on**: Transitioning physical modeling scripts into clean Python command-line tools.
+* 📖 **Learning**: Core software design patterns, data structures, and algorithms.
+* 💬 **Ask me about**: FEA simulation, CAD design standards, or Python automation.
+* ✉️ **How to reach me**: Connect with me on [LinkedIn](https://linkedin.com) or [Email Me](mailto:shawn.bryant.developer@gmail.com).
 
 ---
 
 <p align="center">
-  <i>"The analytical skills required to build physical machines are the same skills required to build virtual ones."</i>
+  <i>"The analytical rigor of physical engineering is the foundation of robust software engineering."</i>
 </p>
