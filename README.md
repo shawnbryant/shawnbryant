@@ -82,5 +82,5 @@ I am currently a mechanical engineer and I enjoy the field, but I have found a s
 ---
 
 <p align="center">
-  <i>"The analytical rigor of physical engineering is the foundation of robust software engineering."</i>
+  <i>"The Wonders of life are reserved for those who are consistent in the journey and present in the moment."</i>
 </p>
